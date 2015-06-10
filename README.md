@@ -1,2 +1,2 @@
 # Simple_DB
-Simple DB system inplemented buffer management, operators, and query optimizer.
+Simple Database system implemented buffer management, operators, and query optimizer.
